@@ -25,5 +25,5 @@
 ## 📚 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Printing Your Brain 🧠](https://abenstirling.com/engineering)
+- [3D Printing Your Brain 🧠](https://abenstirling.com/engineer)
 <!-- BLOG-POST-LIST:END -->
