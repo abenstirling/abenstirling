@@ -17,11 +17,6 @@
 ![OnShape](https://img.shields.io/badge/-OnShape-63bc4f?style=flat)
 ![Fusion_360](https://img.shields.io/badge/-Fusion_360-FF8C18?style=flat)
 
-
-## 📈 GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=abenstirling&show_icons=true&theme=dracula)
-
 ## 📚 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
