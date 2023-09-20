@@ -20,5 +20,5 @@
 ## 📚 Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [3D Printing Your Brain 🧠](https://abenstirling.com/engineer)
+- [PCB Business Card 🧠](https://abenstirling.com/posts/businesscard/)
 <!-- BLOG-POST-LIST:END -->
