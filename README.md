@@ -2,8 +2,7 @@
 
 
   <a href="https://abenstirling.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-abenstirling.com-4EAA25?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/abenstirling![logo_white](https://user-images.githubusercontent.com/33791408/228331302-93860c41-a837-41ed-b35b-e6e9ae9968df.png)
-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@abenstirling-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/abenstirling/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@abenstirling-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:abenstirling@pm.me"><img alt="Email" src="https://img.shields.io/badge/Email-abenstirling%40pm.me-8B89CC?style=flat&logo=protonmail&logoColor=white"></a>
 
 
