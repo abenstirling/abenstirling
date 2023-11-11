@@ -22,3 +22,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [PCB Business Card 🧠](https://abenstirling.com/posts/businesscard/)
 <!-- BLOG-POST-LIST:END -->
+
+![Contribution Snake Light](https://raw.githubusercontent.com/abenstirling/abenstirling/output/github-snake-light.svg#gh-light-mode-only)
+![Contribution Snake Dark](https://raw.githubusercontent.com/abenstirling/abenstirling/output/github-snake-dark.svg#gh-dark-mode-only)
